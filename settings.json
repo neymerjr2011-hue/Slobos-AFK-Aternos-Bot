@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " iluminati-Y5K3.aternos.me",
+    "ip": " iluminati-Y5K3.aternos.me:17681",
     "port": 17681, 
     "version": "",
     "try-creative": false
